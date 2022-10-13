@@ -1,3 +1,11 @@
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
+
+
+
+
 <h1 align ="center"> Welcome to CodeMistic Community🎉 </h1>
 
 <h3 align="center">A community focused on empowering Development and Competitive Programming  🚀</h3>
